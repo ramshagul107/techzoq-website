@@ -9,6 +9,7 @@ import About from "@/components/About";
 import WhyChooseUs from "@/components/WhyChooseUs";
 import Products from "@/components/Projects";
 import OurWork from "@/components/OurWork";
+import Reviews from "@/components/Reviews";
 export default function Home() {
   const [showSplash, setShowSplash] = useState(true);
 
@@ -41,6 +42,9 @@ export default function Home() {
 
         {/* Our Work */}
         <OurWork />
+
+        {/* Reviews */}
+        <Reviews />
 
   
 
