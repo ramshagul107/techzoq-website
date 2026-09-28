@@ -15,8 +15,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "TechZoq",
-  description: "TechZoq Software House",
+  title: "My First Frontend Project | Techzoq",
+  description:
+    "My First Frontend Project - Techzoq Digital Solutions & Software Development.",
 };
 
 export default function RootLayout({ children }) {
