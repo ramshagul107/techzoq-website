@@ -3,21 +3,21 @@
 import Link from "next/link";
 
 const services = [
-  { name: "Web Development", href: "/services/web-development" },
-  { name: "Mobile App Development", href: "/services/mobile-app-development" },
-  { name: "E-Commerce", href: "/services/e-commerce" },
-  { name: "Software Solutions", href: "/services/software-solutions" },
-  { name: "AI Solutions", href: "/services/ai" },
-  { name: "Ethical Hacking", href: "/services/ethical-hacking" },
-  { name: "Graphic Design", href: "/services/graphic-design" },
-  { name: "Video Editing", href: "/services/video-editing" },
-  { name: "Video Creation", href: "/services/video-creation" },
+  { name: "Web Development", href: "/courses/web-development" },
+  { name: "Mobile App Development", href: "/courses/mobile-app-development" },
+  { name: "E-Commerce", href: "/courses/e-commerce" },
+  { name: "Software Solutions", href: "/courses/codecore" },
+  { name: "AI Solutions", href: "/courses/ai-innovate" },
+  { name: "Ethical Hacking", href: "/courses/ethical-hacking" },
+  { name: "Graphic Design", href: "/courses/graphic-design" },
+  { name: "Video Editing", href: "/courses/video-editing" },
+  { name: "Video Creation", href: "/courses/video-creation" },
 ];
 
 const companyLinks = [
   { name: "Home", href: "/" },
   { name: "About Us", href: "/about" },
-  { name: "Services", href: "/services" },
+  { name: "Services", href: "/courses" },
   { name: "Projects", href: "/projects" },
   { name: "Contact", href: "/contact" },
 ];

@@ -12,7 +12,7 @@ const courses = [
     level: "Beginner to Advanced",
     number: "01",
     image: "/images/gallery5.jpg",
-    link: "/courses/webcraft-pro",
+    link: "/courses/web-development",
   },
   {
     title: "AppForge",
@@ -22,7 +22,7 @@ const courses = [
     level: "Intermediate",
     number: "02",
     image: "/images/gallery6.jpg",
-    link: "/courses/appforge",
+    link: "/courses/mobile-app-development",
   },
   {
     title: "ShopSphere",
@@ -32,7 +32,7 @@ const courses = [
     level: "Intermediate",
     number: "03",
     image: "/images/gallery9.jpg",
-    link: "/courses/shopsphere",
+    link: "/courses/e-commerce",
   },
   {
     title: "MotionLab",
@@ -42,7 +42,7 @@ const courses = [
     level: "Beginner to Advanced",
     number: "04",
     image: "/images/gallery8.jpg",
-    link: "/courses/motionlab",
+    link: "/courses/video-editing",
   },
   {
     title: "CodeCore",
@@ -62,7 +62,7 @@ const courses = [
     level: "Beginner",
     number: "06",
     image: "/images/gallery12.jpg",
-    link: "/courses/pixelcraft",
+    link: "/courses/graphic-design",
   },
   {
     title: "CyberShield",
@@ -72,7 +72,7 @@ const courses = [
     level: "Intermediate",
     number: "07",
     image: "/images/gallery10.jpg",
-    link: "/courses/cybershield",
+    link: "/courses/ethical-hacking",
   },
   {
     title: "AI Innovate",
@@ -92,7 +92,7 @@ const courses = [
     level: "Beginner",
     number: "09",
     image: "/images/gallery7.jpg",
-    link: "/courses/visionstudio",
+    link: "/courses/video-creation",
   },
 ];
 

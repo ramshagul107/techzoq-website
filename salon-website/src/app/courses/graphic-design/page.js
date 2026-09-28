@@ -701,7 +701,7 @@ export default function GraphicDesignPage() {
                 <img
                   src="/images/graphic3.jpg"
                   alt="Mam Atiqa"
-                  className="h-full w-full object-cover object-[center_20%] transition-transform duration-700 group-hover:scale-105"
+className="h-full w-full object-contain object-center transition-transform duration-700 group-hover:scale-105"
                 />
 
                 <div className="absolute inset-0 rounded-full bg-gradient-to-t from-black/30 via-transparent to-transparent" />

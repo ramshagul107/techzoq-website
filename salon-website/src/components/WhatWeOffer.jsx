@@ -159,7 +159,7 @@ function ServiceCard({ service }) {
 
       {/* EXPLORE SERVICE */}
       <Link
-        href="/services"
+        href="/courses"
         className="
           absolute
           bottom-5

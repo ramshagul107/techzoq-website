@@ -285,7 +285,7 @@ export default function About() {
               <div className="mt-7">
 
                 <Link
-                  href="/services"
+                  href="/courses"
                   className="inline-flex items-center gap-3 rounded-full bg-green-600 px-7 py-3.5 text-sm font-bold text-white shadow-lg transition-all duration-300 hover:-translate-y-1 hover:bg-green-700"
                 >
                   Explore Our Services
@@ -428,7 +428,7 @@ export default function About() {
           <div className="mt-12 text-center">
 
             <Link
-              href="/services"
+              href="/courses"
               className="inline-flex items-center gap-3 rounded-full bg-green-600 px-8 py-4 text-sm font-bold text-white shadow-lg shadow-green-600/20 transition-all duration-300 hover:-translate-y-1 hover:bg-green-700 hover:shadow-xl"
             >
 
